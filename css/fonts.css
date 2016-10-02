@@ -1,0 +1,45 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("../fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("../fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+@font-face {
+	font-family: "RobotoSlab-Bold";
+	src: url("../fonts/RobotoSlab-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "RobotoSlab-Light";
+	src: url("../fonts/RobotoSlab-Light.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "RobotoSlab-Regular";
+	src: url("../fonts/RobotoSlab-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "RobotoSlab-Thin";
+	src: url("../fonts/RobotoSlab-Thin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "Ubuntu-Bold";
+	src: url("../fonts/Ubuntu-Bold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
+@font-face {
+	font-family: "Ubuntu-Regular";
+	src: url("../fonts/Ubuntu-Regular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: bold;
+}
